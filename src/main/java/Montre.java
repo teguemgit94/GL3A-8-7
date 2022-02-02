@@ -25,7 +25,7 @@ public class Montre {
         }else {
             if (heure < 23){
                 heure = heure + 1;
-                minute = 0;
+                minute = 0;git init
             }else {
                 heure = 00;
                 minute = 00;
