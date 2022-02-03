@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d83553d4-ffdd-49b3-9d9b-8b4ed1936eea" name="Default" comment="" />
+    <list default="true" id="d83553d4-ffdd-49b3-9d9b-8b4ed1936eea" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +89,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -181,10 +185,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.Montre" />
-      <item itemvalue="JUnit.PersonneTest.fairePorterMontre" />
-      <item itemvalue="JUnit.PersonneTest.enleverMontre" />
-      <item itemvalue="JUnit.MontreTest.moNtreCreeTest" />
       <item itemvalue="JUnit.MontreTest" />
+      <item itemvalue="JUnit.MontreTest.moNtreCreeTest" />
+      <item itemvalue="JUnit.PersonneTest.enleverMontre" />
+      <item itemvalue="JUnit.PersonneTest.fairePorterMontre" />
     </list>
     <recent_temporary>
       <list>

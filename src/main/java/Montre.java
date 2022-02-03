@@ -33,6 +33,8 @@ public class Montre {
         }
     }
 
+    //classe montre partie2
+
     public String afficheHeure(){
         return heure + " h " + minute + " m";
     }
